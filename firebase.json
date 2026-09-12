@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      "firebase-debug.log",
+      ".DS_Store",
+      ".git/**",
+      "README.md"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
+  }
+}
